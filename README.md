@@ -8,61 +8,78 @@ This project aims to analyze a Kaggle dataset to determine if a person is a smok
 
 ## Dataset Information
 
-- **Dataset Name**: [Name of the Kaggle Dataset]
-- **Dataset Source**: [Link to the Kaggle Dataset]
-- **Dataset Description**: [Brief description of the dataset, including the number of samples and features]
+- **Dataset Name**: Healthcare Insurance
+- **Dataset Source**: https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance/
+- **Dataset Description**: This dataset contains information on the relationship between personal attributes (age, gender, BMI, family size, smoking habits), geographic factors, and their impact on medical insurance charges. It can be used to study how these features influence insurance costs and develop predictive models for estimating healthcare expenses.
+Age: The insured person's age.
+
+Sex: Gender (male or female) of the insured.
+
+BMI (Body Mass Index): A measure of body fat based on height and weight.
+
+Children: The number of dependents covered.
+
+Smoker: Whether the insured is a smoker (yes or no).
+
+Region: The geographic area of coverage.
+
+Charges: The medical insurance costs incurred by the insured person.
 
 ## Analysis Goals
 
 - To determine whether a person is a smoker based on the dataset.
 - To classify individuals as men or women based on available attributes.
-- [Any additional specific analysis goals]
+
 
 ## Data Preprocessing
 
-- Data Cleaning: [Explain any data cleaning and preprocessing steps]
-- Feature Selection: [If applicable, mention any features used for classification]
+- Data Cleaning: Done in part 2
+- Feature Selection: Done in part 2/3
 
 ## Methodology
 
-- Classification Algorithms: [List any machine learning algorithms used for classification]
-- Evaluation Metrics: [Explain the metrics used to evaluate the models]
+- Classification Algorithms: Histograms
+- Evaluation Metrics: Age, whether one is a smoker
 
 ## Results
 
-- [Summarize the results of your analysis, including accuracy, precision, recall, and any visualizations]
+- TBD
 
 ## Conclusion
 
-- [Provide conclusions and insights from your analysis]
-- [Discuss limitations and potential areas for improvement]
+- TBD
 
 ## How to Run the Code
 
-- [Provide instructions on how to run your code and reproduce the analysis]
+- Fork the repository from GitHub.
+- Clone the repository to your local machine.
+- Open the repository in your IDE of choice.
+- Install Python, Matlab, and Jupyter Notebook.
+- Run the cells
 
 ## Project Structure
 
-- [Briefly describe the structure of your project repository]
+- TBD
 
 ## Dependencies
 
-- [List any dependencies, libraries, or software required to run your code]
+- TBD
 
 ## Author
 
-- [Your Name]
-- [Your Email Address]
+- Dereck Helms
+- dereckhelmsdev@gmail.com
 
 ## License
 
-- [Specify the License and Copyright Information]
+- MIT License
 
 ## Acknowledgments
 
-- [Acknowledge any data sources, libraries, or collaborators used in your project]
+- https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance
+
 
 ## Feedback
 
-- We welcome feedback and suggestions. If you have any questions or recommendations, please contact the author.
+- We welcome feedback and suggestions. If you have any questions or recommendations, please contact Dereck Helms via email.
 
