@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project aims to analyze a Kaggle dataset to determine if a person is a smoker and classify them as either a man or a woman based on available data.
+This project aims to analyze a Kaggle dataset to determine what factors increase the cost of healthcare insurance. I will investigate all factors but I tend to investigate how much a higher BMI and smoking increases your insurance costs. I will then have a Random Forest model predict these charges and compare them to the actual charges. 
 
 ## Dataset Information
 
