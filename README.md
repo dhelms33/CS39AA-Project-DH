@@ -27,8 +27,7 @@ Charges: The medical insurance costs incurred by the insured person.
 
 ## Analysis Goals
 
-- To determine whether a person is a smoker based on the dataset.
-- To classify individuals as men or women based on available attributes.
+- To determine the cost of insurance based on the available attributes (Age, BMI, Smoker (y/n), Region,)
 
 
 ## Data Preprocessing
@@ -38,9 +37,8 @@ Charges: The medical insurance costs incurred by the insured person.
 
 ## Methodology
 
-- Classification Algorithms: Histograms
-- Evaluation Metrics: Age, whether one is a smoker
-
+- Models Used: Linear regression, Random Forest
+- Evaluation Metrics: Age, BMI, Smoker (y/n), Region, Children
 ## Results
 
 - TBD
