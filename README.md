@@ -79,5 +79,5 @@ Charges: The medical insurance costs incurred by the insured person.
 
 ## Feedback
 
-- We welcome feedback and suggestions. If you have any questions or recommendations, please contact Dereck Helms via email.
+- I welcome feedback and suggestions. If you have any questions or recommendations, please contact Dereck Helms via email above.
 
