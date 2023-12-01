@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project aims to analyze a Kaggle dataset to determine what factors increase the cost of healthcare insurance. I will investigate all factors but I tend to investigate how much a higher BMI and smoking increases your insurance costs. I will then have a Random Forest model predict these charges and compare them to the actual charges. 
+This project aims to construct a RF and FF model to see which model predicts the charges of the healthcare dataset with a lower Mean Absolute Error.
 
 ## Dataset Information
 
@@ -41,11 +41,12 @@ Charges: The medical insurance costs incurred by the insured person.
 - Evaluation Metrics: Age, BMI, Smoker (y/n), Region, Children
 ## Results
 
-- TBD
+- MAE for RF Model: 2532.2459332975795
+- MAE for FF Model: 2755.556764385067
 
 ## Conclusion
 
-- TBD
+- The Feed Forward Model produced a significantly worse MAE than the Random Forest Model.
 
 ## How to Run the Code
 
@@ -57,11 +58,16 @@ Charges: The medical insurance costs incurred by the insured person.
 
 ## Project Structure
 
-- TBD
+- Several intermitten sections with markdown cells explaining the results of the code. 
 
 ## Dependencies
 
-- TBD
+- pytorch
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- sklearn
 
 ## Author
 
@@ -79,5 +85,5 @@ Charges: The medical insurance costs incurred by the insured person.
 
 ## Feedback
 
-- I welcome feedback and suggestions. If you have any questions or recommendations, please contact Dereck Helms via email above.
+- I welcome feedback and suggestions. If you have any questions or recommendations, please contact Dereck Helms via the email above.
 
