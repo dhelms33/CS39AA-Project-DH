@@ -42,7 +42,7 @@ Charges: The medical insurance costs incurred by the insured person.
 ## Results
 
 - MAE for RF Model: 2532.2459332975795
-- MAE for FF Model: 2755.556764385067
+- MAE for FF Model: 8710.7676
 
 ## Conclusion
 
